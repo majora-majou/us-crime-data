@@ -1,9 +1,3 @@
-/*
-* File: TestUSCrime.java
-* Author: Jared Buehner
-* Date: March 2, 2020
-* Purpose: This program displays statistical results of crime rates in the U.S.
-*/
 // Imports.
 import java.util.*;
 import java.io.*;
