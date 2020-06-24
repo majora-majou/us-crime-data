@@ -1,9 +1,3 @@
-/*
-* File: USCrime.java
-* Author: Jared Buehner
-* Date: March 2, 2020
-* Purpose: This program displays statistical results of crime rates in the U.S.
-*/
 public class USCrime {
 	// Private variables for the class USCrime.
     private int population;
